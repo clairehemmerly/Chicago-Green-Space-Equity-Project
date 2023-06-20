@@ -1,3 +1,5 @@
+## Chicago Green Space Equity
+
 This repo contians all the code for the final python project completed as part of the Master's in Computational Analysis and Public Policy at the University of Chicago. The completed project is an interactive dashboard examining that equity in the distribuation of green spaces in Chicago. To view the dashboard, please follow this below instructions. 
 
 Project Installation:
